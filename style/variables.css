@@ -1,0 +1,44 @@
+:root{
+    --primary-text-color: #000000;
+    --secondary-text-color: #fff;
+    --third-text-color:#fcbd4d;
+    --hover-text-color:blue;
+
+    --main-bg-color:#fcbd4d;
+
+    --primary-margin:1.3rem;
+    --secondary-margin:3rem;
+
+    --primary-padding:1.5rem;
+    --secondary-padding:2rem;
+    --third-padding:3.5rem;
+    
+
+    --titles-font-size:3rem;
+    --third-font-size:1.4rem;
+    --font-size:2rem;
+
+    --standart-btn-width:16rem;
+    --secondary-btn-width:22rem;
+    --standart-width:95%;
+    --secondary-img-width:16rem;
+    --third-img-width:34rem;
+
+    --standart-btn-height:3.5rem;
+    --secondary-btn-height:4rem;
+    --header-height:7rem;
+    --main-img-height:45rem;
+    --secondary-img-height:16rem;
+    --third-img-height:24rem;
+    --footer-height:10rem;
+
+    
+
+
+
+
+    
+
+
+    
+} 
